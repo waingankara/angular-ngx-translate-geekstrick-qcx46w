@@ -1,0 +1,7 @@
+{
+  "banner": {
+    "hello" : "Bonjour",
+    "world": "monde",
+    "change_lang_label": "Changer la langue à partir du menu déroulant ci-dessous"
+  }
+}
